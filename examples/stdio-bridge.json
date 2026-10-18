@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "followarc": {
+      "command": "npx",
+      "args": [
+        "mcp-remote",
+        "https://www.followarc.com/api/mcp",
+        "--header",
+        "Authorization: Bearer YOUR_API_KEY"
+      ]
+    }
+  }
+}
